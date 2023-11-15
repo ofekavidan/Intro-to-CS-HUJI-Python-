@@ -1,6 +1,6 @@
 #############################################################
 # FILE : ex4.py
-# WRITER : Ofek Avidan , ofek.avidan , 318879574
+# WRITER : Ofek Avidan
 # EXERCISE : intro2cse exercise4 2021
 #############################################################
 
