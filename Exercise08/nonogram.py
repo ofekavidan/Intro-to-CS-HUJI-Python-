@@ -1,7 +1,6 @@
 #############################################################
 # FILE : nonogram.py
-# WRITER1 : Ofek Avidan , ofek.avidan , 318879574
-# WRITER2: Tohar Simchi , toharsimchi , 209207876
+# WRITER : Ofek Avidan
 # EXERCISE : intro2cse exercise8 2021
 # HELPED BY: Tirgul 8 (Subset Sum), https://bit.ly/3lJ4WLd ,
 # WHY I CHOSE -1 OPTION: It was easier programmingly and didn't require a double code
