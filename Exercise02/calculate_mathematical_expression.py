@@ -1,6 +1,5 @@
 #############################################################
 # FILE : calculate_mathematical_expression.py
-# WRITER : Ofek Avidan , ofek.avidan , 318879574
 # EXERCISE : intro2cse exercise2 2021
 # DESCRIPTION: This function gets two numbers and an operation and returns the result
 #############################################################
