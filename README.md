@@ -1,4 +1,4 @@
-![image](https://github.com/ofekavidan/Intro-to-CS-HUJI-Python-/assets/88547605/f9a3a959-a41b-43d0-a53f-867f321e5c18)
+![image](https://github.com/ofekavidan/Intro-to-CS-HUJI-Python-/assets/88547605/f9a3a959-a41b-43d0-a53f-867f321e5c18 =250x250)
 
 
 As a Computer Science Student in the Hebrew University of Jerusalem, I was required to take the Introduction to Computer Science course.
