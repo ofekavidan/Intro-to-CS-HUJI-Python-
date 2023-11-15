@@ -1,6 +1,6 @@
 #############################################################
 # FILE : ex7.py
-# WRITER : Ofek Avidan , ofek.avidan , 318879574
+# WRITER : Ofek Avidan , ofek.avidan
 # EXERCISE : intro2cse exercise7 2021
 # HELPED BY: https://bit.ly/3C9RjKV , https://youtu.be/5_6nsViVM00 ,
 #############################################################
