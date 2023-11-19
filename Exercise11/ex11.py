@@ -1,6 +1,6 @@
 #############################################################
 # FILE : ex11.py
-# WRITER : Ofek Avidan , ofek.avidan , 318879574
+# WRITER : Ofek Avidan , ofek.avidan
 # EXERCISE : intro2cse exercise11 2021
 # HELPED BY: Adi cogan (sh'at kabala), Lab support (especially - Yuval Cohen and Itai Valach)
 # HELPED BY: https://bit.ly/3BDwAhd
