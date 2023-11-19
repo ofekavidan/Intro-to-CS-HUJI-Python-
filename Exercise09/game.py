@@ -1,6 +1,6 @@
 #############################################################
 # FILE : game.py
-# WRITER : Ofek Avidan , ofek.avidan , 318879574
+# WRITER : Ofek Avidan , ofek.avidan
 # EXERCISE : intro2cse exercise9 2021
 # HELPED BY:
 #############################################################
