@@ -1,4 +1,3 @@
-# ![image](https://github.com/user-attachments/assets/beb1c2eb-9fa1-4c26-a51c-fe947f393db2)
 # Introduction to Computer Science
 
 As a Computer Science Student in the Hebrew University of Jerusalem, I was required to take the Introduction to Computer Science course.
