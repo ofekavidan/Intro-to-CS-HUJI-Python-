@@ -1,3 +1,5 @@
+# Exercise 5 - WordSearch
+
 This is a word search game. The user has to provide :
 
 1. a file containg words to search for.
