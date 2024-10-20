@@ -7,3 +7,4 @@ This is a word search game. The user has to provide :
 
 ![image](https://github.com/ofekavidan/Intro-to-CS-HUJI/assets/88547605/95d2608c-75ee-4224-ad75-8e3f0e96ed9e)
 
+![image](https://github.com/user-attachments/assets/45f9991a-c69c-4bb5-935f-52ca2e6419ea)
